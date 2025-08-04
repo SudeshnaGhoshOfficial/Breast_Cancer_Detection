@@ -1,4 +1,4 @@
-# Breast Cancer Detection Using Deep Learning
+# Breast Cancer Classification Using Deep Learning (Neural Network)
 
 This project focuses on detecting breast cancer by classifying tumors as **malignant** or **benign** using a deep learning model built with TensorFlow and Keras. The model is trained on the **Breast Cancer Wisconsin (Diagnostic) Dataset**, utilizing diagnostic features extracted from digitized images of fine needle aspirates (FNA) of breast masses.
 
